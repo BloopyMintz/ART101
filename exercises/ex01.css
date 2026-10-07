@@ -1,0 +1,29 @@
+HTML {background-color: peachpuff};
+
+A {color: lawngreen};
+
+UL {
+    color: red;
+}
+
+h1 {
+    background-color: rgb(19, 32, 113);
+    color: rgb(160, 229, 229);
+    font-weight: normal;
+}
+
+ol {
+    background-color: cornflowerblue; 
+    padding: 20px;
+    margin: 50px;
+    font-size: 20px;
+}
+
+IMG {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+}
+
+#bebe {width:70%; }
