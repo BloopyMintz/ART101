@@ -1,29 +1,65 @@
-HTML {background-color: peachpuff};
+HTML {background-color: peachpuff;}
+ 
+A {color: rgb(118, 67, 212);}
+A:hover {color: aqua; background: darksalmon}
 
-A {color: lawngreen};
+
 
 UL {
     color: red;
 }
 
 h1 {
-    background-color: rgb(19, 32, 113);
-    color: rgb(160, 229, 229);
+    background-color: rgb(229, 158, 16);
+    color: rgb(255, 252, 75);
     font-weight: normal;
 }
 
 ol {
-    background-color: cornflowerblue; 
+    background-color: rgb(244, 26, 26); 
     padding: 20px;
     margin: 50px;
     font-size: 20px;
 }
+ol:hover {color: aqua; background: darksalmon}
 
-IMG {
+#bebe {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 200px;
+    width: 40%;
 }
+#dog {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+#bebe:hover
+IMG:hover
 
-#bebe {width:70%; }
+#cream {
+    margin-left: auto;
+    margin-right: auto;
+    display: flex; flex-wrap: wrap; align-items: flex-start; row-gap: 30px; column-gap: 50px;}
+
+p {
+    background-color: lightgoldenrodyellow 
+}
+p:hover {color: rgb(28, 54, 0); background: darksalmon}
+
+#bebe {width:40%; 
+display: block;}
+
+
+.highlight_01 {background-color: gold;}
+.highlight_02 {background-color: whitesmoke;}
+.highlight_03 {background-color: grey;}
+.highlight_04 {background-color: brown;}
+.highlight_05 {background-color: yellow;}
+
+#hell {background-color: crimson; padding: 50px; margin: 100px;}
+#hell:hover {-webkit-box-shadow: 4px -4px 15px 0px #FF1F1F, 12px -11px 7px 0px #FF9376, 20px -5px 7px 0px #FFE264, 20px 6px 7px 0px #F6FF33, 13px 12px 17px 0px #FF9527, 2px 17px 17px 0px #FF0000, -9px 21px 18px 0px #FFF212, -9px 6px 11px 0px #FF0808, -11px -9px 11px 0px #FFFA17, -11px -9px 11px 0px #FFFA17, -13px -46px 0px -6px rgba(0,0,0,0); 
+box-shadow: 4px -4px 15px 0px #FF1F1F, 12px -11px 7px 0px #FF9376, 20px -5px 7px 0px #FFE264, 20px 6px 7px 0px #F6FF33, 13px 12px 17px 0px #FF9527, 2px 17px 17px 0px #FF0000, -9px 21px 18px 0px #FFF212, -9px 6px 11px 0px #FF0808, -11px -9px 11px 0px #FFFA17, -11px -9px 11px 0px #FFFA17, -13px -46px 0px -6px rgba(0,0,0,0);}
+
+
