@@ -18,11 +18,13 @@ body {
 
 #bottom-page {
     max-width: 900px;
-    height: 100%;
+    height: 250px;
     justify-content: center;
     display: block;
 }
-
+#bottom-block{
+    max-height: 100%;
+}
 #avatar {
     justify-content: center;
     display: flex;
